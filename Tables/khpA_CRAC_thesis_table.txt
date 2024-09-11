@@ -1,0 +1,272 @@
+pyRAP_Gene	feature	Gene_base	locus	GO_terms	RPMPRPK	log2foldchange_RNAseq	padj_RNAseq
+rosA_S346.1454	sRNA_independent	rosA_S346	new_1056384_1056537	Regulatory RNAs	3.55	not_deregulated	na
+yjpA.1854	CDS	yjpA	BSU_12450	Proteins of unknown function	3.45	not_deregulated	na
+bmrB.1437	putative_sRNA	bmrB	BSU_09700	Other regulators	3.04	not_deregulated	na
+ykoY.2003	CDS	ykoY	BSU_13440	Newly identified sporulation proteins (based on transcription profiling), Membrane proteins, Manganese	1.89	not_deregulated	na
+ykoX.2000	CDS	ykoX	BSU_13430	Membrane proteins, Other transporters	1.77	not_deregulated	0.999008657
+ydjN.974	CDS	ydjN	BSU_06260	Proteins of unknown function, Secreted proteins	1.7	not_deregulated	na
+sacP.5743	CDS	sacP	BSU_38050	Utilization of sucrose, Control of PRD-type regulators, Membrane proteins, Sugar specific PTS proteins, Trigger enzymes of the PTS that control the activity of PRD-containing transcription factors, Phosphorylation on a Cys residue	1.43	not_deregulated	na
+fhuG.5040	CDS	fhuG	BSU_33300	Membrane proteins, Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores	1.37	not_deregulated	na
+fhuG_fhuB.5041	CDS	fhuG_fhuB	BSU_33300	Membrane proteins, Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores	1.36	not_deregulated	na
+opuBA.5100	CDS	opuBA	BSU_33730	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	1.21	not_deregulated	na
+walM.971	CDS	walM	BSU_06250	Cell wall/ other, Secreted proteins	1.04	not_deregulated	na
+YP_009514003.5196	CDS	YP_009514003	na	na	0.85	not_deregulated	na
+walM_ydjN.973	intergenic_UTR	walM_ydjN	BSU_06250	Cell wall/ other, Secreted proteins	0.85	not_deregulated	na
+argC.1657	CDS	argC	BSU_11190	Biosynthesis/ acquisition of arginine	0.84	not_deregulated	0.999008657
+amtB.5519	CDS	amtB	BSU_36510	Biosynthesis/ acquisition of glutamate/ glutamine/ ammonium assimilation, Membrane proteins, Uptake of other small ions	0.82	not_deregulated	0.999008657
+mnrW_ykoY.2002	transcript	mnrW_ykoY	BSU_misc_RNA_87	na	0.82	not_deregulated	na
+lutA.5147	CDS	lutA	BSU_34050	Utilization of organic acids	0.72	not_deregulated	0.999008657
+gbsR.4691	CDS	gbsR	BSU_31070	Biosynthesis of glycine betaine, Transcription factors/ other, Coping with hyper-osmotic stress	0.7	not_deregulated	na
+opuBC.5098	CDS	opuBC	BSU_33710	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.63	not_deregulated	na
+argJ_argB.1660	intergenic_UTR	argJ_argB	BSU_11200	Biosynthesis/ acquisition of arginine	0.59	not_deregulated	na
+ybxI.342	CDS	ybxI	BSU_02090	Resistance against toxins/ antibiotics, Secreted proteins	0.51	not_deregulated	na
+argJ.1659	CDS	argJ	BSU_11200	Biosynthesis/ acquisition of arginine	0.5	not_deregulated	0.999008657
+sxzZ.1267	CDS	sxzZ	BSU_08450	Membrane proteins, Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores	0.48	not_deregulated	na
+ylaF.2206	CDS	ylaF	BSU_14760	Membrane proteins, Proteins of unknown function	0.48	not_deregulated	na
+braB.4485	CDS	braB	BSU_29600	Biosynthesis/ acquisition of branched-chain amino acids, Membrane proteins, BCAA transporters	0.46	not_deregulated	0.228549421
+ydgI.878	CDS	ydgI	BSU_05660	Poorly characterized/ putative enzymes	0.46	not_deregulated	na
+yfmL.1129	CDS	yfmL	BSU_07430	DEAD-box RNA helicases, Ribosome assembly	0.43	not_deregulated	na
+argG.4463	CDS	argG	BSU_29450	Biosynthesis/ acquisition of arginine, Phosphorylation on an Arg residue	0.43	not_deregulated	0.999008657
+yxjO.5866	CDS	yxjO	BSU_38880	Transcription factor/ other/ based on similarity	0.42	not_deregulated	na
+dnaI.4390	CDS	dnaI	BSU_28980	DNA replication, Essential genes	0.41	not_deregulated	na
+trpE.3427	CDS	trpE	BSU_22680	Biosynthesis/ acquisition of aromatic amino acids	0.41	not_deregulated	0.999008657
+ytzB.4532	CDS	ytzB	BSU_29870	Proteins of unknown function	0.38	not_deregulated	0.999008657
+yvrD.5025	CDS	yvrD	BSU_33190	Poorly characterized/ putative enzymes	0.37	not_deregulated	0.999008657
+ywoG.5513	CDS	ywoG	BSU_36450	Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.37	not_deregulated	na
+trpD.3426	CDS	trpD	BSU_22670	Biosynthesis/ acquisition of aromatic amino acids	0.36	not_deregulated	na
+ykoX_ykoY.2001	intergenic_UTR	ykoX_ykoY	BSU_13430	Membrane proteins, Other transporters	0.36	not_deregulated	na
+clsA.5530	CDS	clsA	BSU_36590	Biosynthesis of phospholipids, Membrane proteins	0.36	not_deregulated	0.941636362
+yczO.632	CDS	yczO	BSU_04039	Proteins of unknown function, General stress proteins (controlled by SigB)	0.36	not_deregulated	na
+argB.1661	CDS	argB	BSU_11210	Biosynthesis/ acquisition of arginine	0.35	not_deregulated	0.967641343
+mprF.1265	CDS	mprF	BSU_08425	Biosynthesis of phospholipids, Membrane proteins	0.35	not_deregulated	0.999008657
+yutK.4874	CDS	yutK	BSU_32180	Biosynthesis/ acquisition of nucleotides/ other/ based on similarity, Membrane proteins	0.34	not_deregulated	na
+S198.872	sRNA_independent	S198	new_606414_606611_c	na	0.34	not_deregulated	na
+frxB.5980	CDS	frxB	BSU_39610	Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, Secreted proteins	0.33	1.9	0.000171076
+bcd.3631	CDS	bcd	BSU_24080	Utilization of branched-chain amino acids	0.32	not_deregulated	na
+bioY.1537	CDS	bioY	BSU_10370	ECF transporter, Biosynthesis/ acquisition of biotin, Membrane proteins, The substrate-specific S components of the ECF transporters	0.3	not_deregulated	na
+argF.1665	CDS	argF	BSU_11250	Biosynthesis/ acquisition of arginine	0.29	not_deregulated	0.999008657
+yqgC.3762	CDS	yqgC	BSU_25030	Proteins of unknown function, Membrane proteins	0.29	not_deregulated	na
+glpQ.3643	CDS	glpQ	BSU_02130	Utilization of glycerol/ glycerol-3-phosphate, Utilization of phospholipids, Secreted proteins, Phosphate metabolism, Utilization of cell wall components	0.29	not_deregulated	na
+yflK.1164	CDS	yflK	BSU_07650	Detoxification reactions	0.28	not_deregulated	na
+mneS.985	CDS	mneS	BSU_06320	Membrane proteins, Metal ion exporters, Manganese, Other exporters	0.28	not_deregulated	na
+hisP.4851	CDS	hisP	BSU_32040	Membrane proteins, Proteins of unknown function	0.27	1.12	0.02106292
+yclK.592	CDS	yclK	BSU_03760	Protein kinases, Two-component sensor kinase, Membrane proteins, Phosphorylation on a His residue	0.27	not_deregulated	0.999008657
+ywkF.5598	CDS	ywkF	BSU_36990	Newly identified sporulation proteins (based on transcription profiling), Membrane proteins	0.26	not_deregulated	na
+ezrA_S1125.4487	sRNA_5UTR	ezrA_S1125	BSU_29610	Membrane proteins, Divisome	0.25	not_deregulated	0.999008657
+ezrA.4486	CDS	ezrA	BSU_29610	Membrane proteins, Divisome	0.25	not_deregulated	0.999008657
+farP.1605	CDS	farP	BSU_10810	Biosynthesis of isoprenoids, Biofilm formation, phosphorelay, phosphorelay, Other proteins required for biofilm formation	0.25	not_deregulated	0.788945812
+rghRA.5091	CDS	rghRA	BSU_33660	Transcription factors/ other, phosphorelay, phosphorelay	0.25	not_deregulated	na
+sipW.3709	CDS	sipW	BSU_24630	Protein secretion, Biofilm formation, Membrane proteins, Amyloid protein synthesis, secretion and assembly	0.24	not_deregulated	0.224199317
+opuCB.5116	CDS	opuCB	BSU_33820	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.24	not_deregulated	na
+argD.1662	CDS	argD	BSU_11220	Biosynthesis/ acquisition of arginine	0.24	not_deregulated	0.999008657
+ftsE.5324	CDS	ftsE	BSU_35260	Autolytic activity required for peptidoglycan synthesis (cell elongation), Membrane proteins, Regulatory ABC transporters, phosphorelay, phosphorelay, Cell shape, Swarming	0.24	not_deregulated	0.733865687
+prs.88	CDS	prs	BSU_00510	Biosynthesis/ acquisition of histidine, Biosynthesis/ acquisition of purine nucleotides, Biosynthesis/ acquisition of pyrimidine nucleotides, Essential genes, Universally conserved proteins	0.24	not_deregulated	0.999008657
+ypoP.3271	CDS	ypoP	BSU_21700	Transcription factor/ other/ based on similarity	0.23	not_deregulated	0.999008657
+ybgB.383	CDS	ybgB	BSU_02380	Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Toxins, antitoxins and immunity against toxins/ based on similarity, Membrane proteins	0.23	not_deregulated	na
+steT.1925	CDS	steT	BSU_12860	Membrane proteins, APC superfamily	0.23	not_deregulated	0.436514599
+addB.1574	CDS	addB	BSU_10620	DNA repair/ recombination, Genetic competence, Genetic competence, Other proteins	0.22	not_deregulated	0.997994319
+bcaP.1406	CDS	bcaP	BSU_09460	Biosynthesis/ acquisition of branched-chain amino acids, Utilization of branched-chain amino acids, Membrane proteins, APC superfamily, Biosynthesis/ acquisition of serine/ glycine/ alanine, Biosynthesis/ acquisition of lysine/ threonine, Utilization of threonine/ glycine	0.22	not_deregulated	0.999008657
+metN.4955	CDS	metN	BSU_32750	Biosynthesis/ acquisition of methionine/ S-adenosylmethionine, Membrane proteins, Uptake of amino acids	0.22	not_deregulated	0.423729344
+ywbO_efeB.5777	intergenic_UTR	ywbO_efeB	BSU_38250	Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.21	not_deregulated	na
+opuCC.5115	CDS	opuCC	BSU_33810	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.21	not_deregulated	0.598675683
+yrrS.4113	CDS	yrrS	BSU_27300	Sporulation proteins/ other, Other genes	0.21	not_deregulated	0.999008657
+trmD.2405	CDS	trmD	BSU_16030	tRNA modification and maturation, Essential genes	0.2	3.88	4.18E-52
+prmC.5600	CDS	prmC	BSU_37000	Translation/ other/ based on similarity, Protein modification/ other, Newly identified competence genes, Swarming	0.2	not_deregulated	0.999008657
+YP_009514007.5527	CDS	YP_009514007	na	na	0.2	not_deregulated	0.999008657
+yxaI.6030	CDS	yxaI	BSU_39960	Membrane proteins, Proteins of unknown function	0.19	not_deregulated	0.687248376
+ywdJ.5729	CDS	ywdJ	BSU_37940	Membrane proteins	0.19	not_deregulated	na
+yhgE.1509	CDS	yhgE	BSU_10160	Membrane proteins, Proteins of unknown function	0.19	not_deregulated	0.999008657
+nrnA.4432	CDS	nrnA	BSU_29250	Exoribonucleases	0.19	not_deregulated	0.999008657
+yumB.4861	CDS	yumB	BSU_32100	Newly identified sporulation proteins (based on transcription profiling)	0.19	not_deregulated	0.999008657
+ykhA.1947	CDS	ykhA	BSU_13030	Poorly characterized/ putative enzymes	0.19	not_deregulated	0.999008657
+ywnG_YP_009514007.5528	intergenic_UTR	ywnG_YP_009514007	BSU_36570	Newly identified sporulation proteins (based on transcription profiling), Membrane proteins	0.18	not_deregulated	na
+mleN.3555	CDS	mleN	BSU_23560	Utilization of organic acids, Membrane proteins, Transporter for organic acids	0.18	not_deregulated	0.999008657
+tcyP.1365	CDS	tcyP	BSU_09130	Biosynthesis/ acquisition of cysteine, Membrane proteins, Dicarboxylate/amino acid:cation symporter	0.18	not_deregulated	0.613607589
+carB.1664	CDS	carB	BSU_11240	Biosynthesis/ acquisition of arginine	0.18	not_deregulated	0.999008657
+metP.4954	CDS	metP	BSU_32740	Biosynthesis/ acquisition of methionine/ S-adenosylmethionine, Membrane proteins, Uptake of amino acids	0.18	not_deregulated	0.836375943
+iolR.6005	CDS	iolR	BSU_39770	Utilization of inositol, Transcription factors/ other	0.17	not_deregulated	0.999008657
+opuCA.5117	CDS	opuCA	BSU_33830	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection, Targets of c-di-AMP	0.17	not_deregulated	0.85866775
+yflB.1179	CDS	yflB	BSU_07735	Proteins of unknown function, General stress proteins (controlled by SigB)	0.17	not_deregulated	0.560156475
+argH.4462	CDS	argH	BSU_29440	Biosynthesis/ acquisition of arginine	0.17	not_deregulated	0.999008657
+trpC.3425	pseudogene	trpC	BSU_22660	Biosynthesis/ acquisition of aromatic amino acids	0.17	not_deregulated	0.999008657
+ywdI.5731	CDS	ywdI	BSU_37950	Proteins of unknown function	0.17	not_deregulated	na
+thiX.1973	CDS	thiX	BSU_13210	Biosynthesis/ acquisition of thiamine, Membrane proteins, Class I ECF transporter	0.16	not_deregulated	0.999008657
+ettA.1121	CDS	ettA	BSU_07370	Unknown ABC transporters	0.16	not_deregulated	0.999008657
+gswC.991	transcript	gswC	BSU_misc_RNA_9	na	0.16	not_deregulated	na
+phrI.784	CDS	phrI	BSU_05020	Quorum sensing, ICEBs1, Short peptides, Control of transcription factor (other than two-component system)	0.16	not_deregulated	na
+lytG.4698	CDS	lytG	BSU_31120	Autolysis, N-acetyl-β-D-glucosaminidases	0.16	not_deregulated	0.514227612
+yvbJ.5122	CDS	yvbJ	BSU_33880	Membrane proteins, Proteins of unknown function	0.15	not_deregulated	0.999008657
+artP.3615	CDS	artP	BSU_23980	Biosynthesis/ acquisition of arginine, Membrane proteins, Uptake of amino acids, Secreted proteins	0.15	not_deregulated	0.999008657
+niaP.470	CDS	niaP	BSU_02950	Biosynthesis of NAD(P), Membrane proteins, Transporter for cofactors	0.15	not_deregulated	0.999008657
+dacA.21	CDS	dacA	BSU_00100	Penicillin-binding proteins, Membrane proteins, Secreted proteins, Cell shape, Swarming	0.15	not_deregulated	0.298433061
+cwlO.5253	CDS	cwlO	BSU_34800	Autolytic activity required for peptidoglycan synthesis (cell elongation), Autolysis, Endopeptidases, Secreted proteins, Cell shape, Swarming	0.15	not_deregulated	0.165831124
+glyQ.3802	CDS	glyQ	BSU_25270	Aminoacyl-tRNA synthetases, Essential genes	0.15	not_deregulated	0.999008657
+tex.750	CDS	tex	BSU_04780	Phosphorylation on an Arg residue, RNase/ based on similarity	0.14	not_deregulated	0.999008657
+yjcF.1765	CDS	yjcF	BSU_11840	Proteins of unknown function, Other highly expressed unknown proteins	0.14	not_deregulated	0.999008657
+kinC.2165	CDS	kinC	BSU_14490	Protein kinases, Two-component sensor kinase, Biofilm formation, Membrane proteins, The kinases, The kinases, Phosphorylation on a His residue, Regulation	0.14	not_deregulated	0.999008657
+penP.2838	CDS	penP	BSU_18800	Resistance against toxins/ antibiotics, Secreted proteins	0.14	not_deregulated	0.999008657
+fhuD.5043	CDS	fhuD	BSU_33320	Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, Secreted proteins	0.14	1.44	0.003906473
+ald.4834	CDS	ald	BSU_31930	Utilization of alanine/ serine	0.14	not_deregulated	0.862969905
+rpoE.5626	CDS	rpoE	BSU_37160	RNA polymerase	0.14	not_deregulated	0.544053094
+gdpP.6118	CDS	gdpP	BSU_40510	Metabolism of signalling nucleotides, Membrane proteins, Targets of (p)ppGpp	0.14	not_deregulated	0.997994319
+ydbL.705	CDS	ydbL	BSU_04510	Membrane proteins, Proteins of unknown function	0.14	not_deregulated	0.999008657
+gltT.1516	CDS	gltT	BSU_10220	Biosynthesis/ acquisition of glutamate/ glutamine/ ammonium assimilation, Utilization of glutamine/ glutamate, Membrane proteins, Solute:sodium symporter family, Dicarboxylate/amino acid:cation symporter	0.14	not_deregulated	0.843251961
+kimA.676	CDS	kimA	BSU_04320	Membrane proteins, Metal ion transporter, Potassium uptake/ export, Targets of c-di-AMP	0.13	not_deregulated	0.999008657
+ohrR.1962	CDS	ohrR	BSU_13150	Transcription factors/ other, Resistance against oxidative and electrophile stress	0.13	not_deregulated	na
+artQ.3613	CDS	artQ	BSU_23970	Biosynthesis/ acquisition of arginine, Membrane proteins, Uptake of amino acids	0.13	not_deregulated	0.999008657
+ycdA.439	CDS	ycdA	BSU_02780	Motility and chemotaxis/ other, Membrane proteins	0.13	not_deregulated	0.999008657
+yutI.4880	CDS	yutI	BSU_32220	Biosynthesis of iron-sulfur clusters	0.13	not_deregulated	0.999008657
+dacC.2768	CDS	dacC	BSU_18350	Penicillin-binding proteins, Secreted proteins	0.13	not_deregulated	0.999008657
+mntH.684	CDS	mntH	BSU_04360	Membrane proteins, Metal ion transporter, Manganese	0.13	not_deregulated	0.999008657
+yhdF.1405	CDS	yhdF	BSU_09450	General stress proteins (controlled by SigB), Poorly characterized/ putative enzymes	0.12	not_deregulated	0.733865687
+yetK.1102	CDS	yetK	BSU_07210	Membrane proteins, Proteins of unknown function	0.12	not_deregulated	0.999008657
+rasP.2484	CDS	rasP	BSU_16560	Control of sigma factors, Membrane proteins, Other genes, Additional proteins involved in proteolysis, Protein secretion	0.12	not_deregulated	0.999008657
+csbX.4195	CDS	csbX	BSU_27760	Sporulation proteins/ other, General stress proteins (controlled by SigB), Membrane proteins	0.12	not_deregulated	0.576483188
+rppG.4629	CDS	rppG	BSU_30630	DNA repair/ recombination, Sporulation proteins/ other, RNA pyrophosphohydrolase, Oxidized guanine (GO) DNA repair system	0.12	not_deregulated	0.999008657
+psdR.5238	CDS	psdR	BSU_34720	Two-component system response regulators, Resistance against toxins/ antibiotics, Phosphorylation on an Asp residue	0.12	not_deregulated	0.999008657
+ywnG.5526	CDS	ywnG	BSU_36570	Newly identified sporulation proteins (based on transcription profiling), Membrane proteins	0.12	not_deregulated	0.999008657
+ileS.2314	CDS	ileS	BSU_15430	Aminoacyl-tRNA synthetases, Essential genes	0.12	not_deregulated	0.999008657
+yhdP.1416	CDS	yhdP	BSU_09550	Membrane proteins, Magnesium uptake/ efflux	0.12	not_deregulated	0.999008657
+lytE.1401	CDS	lytE	BSU_09420	Autolytic activity required for peptidoglycan synthesis (cell elongation), Autolysis, Endopeptidases, Cell shape	0.12	not_deregulated	0.999008657
+alsT.2737	CDS	alsT	BSU_18120	Membrane proteins, Solute:sodium symporter family, Biosynthesis/ acquisition of glutamate/ glutamine/ ammonium assimilation, Utilization of glutamine/ glutamate, Alanine or glycine cation symporter family	0.11	not_deregulated	0.930405965
+ykuC.2094	CDS	ykuC	BSU_14030	Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.11	not_deregulated	0.999008657
+dacA_S11.22	CDS_3'UTR	dacA_S11	BSU_00100	Penicillin-binding proteins, Membrane proteins, Secreted proteins, Cell shape, Swarming	0.11	not_deregulated	0.442816858
+speE.5670	CDS	speE	BSU_37500	Metabolism of polyamines	0.11	not_deregulated	0.640628009
+carA.1663	CDS	carA	BSU_11230	Biosynthesis/ acquisition of arginine	0.11	not_deregulated	0.999008657
+mrpA.4775	CDS	mrpA	BSU_31600	Essential genes, Membrane proteins, Metal ion transporter, Sodium uptake/ export	0.11	not_deregulated	0.999008657
+rimM.2404	CDS	rimM	BSU_16020	rRNA modification and maturation, RNases/ Other	0.1	3.86	2.53E-47
+ycnB.604	CDS	ycnB	BSU_03840	Membrane proteins, Metabolism of signalling nucleotides, Other exporters	0.1	not_deregulated	0.999008657
+azr.1391	CDS	azr	BSU_09340	Resistance against oxidative and electrophile stress, Resistance against toxic metals	0.1	not_deregulated	na
+tlpA.4719	CDS	tlpA	BSU_31250	Membrane proteins, Membrane-bound chemoreceptors	0.1	not_deregulated	0.999008657
+yueF.4808	CDS	yueF	BSU_31800	Membrane proteins, Cell shape	0.1	not_deregulated	0.999008657
+ettM.1128	CDS	ettM	BSU_07420	Unknown ABC transporters	0.1	not_deregulated	0.999008657
+yocR.2930	CDS	yocR	BSU_19340	Membrane proteins	0.1	not_deregulated	0.525751719
+ppsD.2762	CDS	ppsD	BSU_18310	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.1	not_deregulated	0.999008657
+ydhK.894	CDS	ydhK	BSU_05790	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.1	not_deregulated	0.94206954
+rny.2546	CDS	rny	BSU_16960	Biofilm formation, Membrane proteins, Endoribonucleases, Other proteins required for biofilm formation, Quasi-essential genes	0.1	not_deregulated	0.999008657
+tcyC.571	CDS	tcyC	BSU_03590	Biosynthesis/ acquisition of cysteine, Membrane proteins, Uptake of amino acids	0.1	not_deregulated	0.999008657
+clsC.5638	CDS	clsC	BSU_37240	Biosynthesis of phospholipids, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins	0.1	not_deregulated	0.070124089
+thiU.1976	CDS	thiU	BSU_13240	Biosynthesis/ acquisition of thiamine, Membrane proteins, Class I ECF transporter	0.1	not_deregulated	0.999008657
+ywrO.5440	CDS	ywrO	BSU_35990	Electron transport/ other/ based on similarity	0.09	not_deregulated	0.999008657
+ytzD.4461	CDS	ytzD	BSU_29430	Proteins of unknown function	0.09	not_deregulated	0.953170465
+ppsE.2761	CDS	ppsE	BSU_18300	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.09	not_deregulated	0.999008657
+tagU.5384	CDS	tagU	BSU_35650	Export of anionic polymers and attachment to peptidoglycan, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins	0.09	not_deregulated	0.999008657
+srfT.564	CDS	srfT	BSU_03530	Membrane proteins, Proteins of unknown function, Efp-dependent proteins	0.09	not_deregulated	0.999008657
+pssA.366	CDS	pssA	BSU_02270	Biosynthesis of phospholipids, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins	0.09	not_deregulated	0.999008657
+yqzC.3751	CDS	yqzC	BSU_24940	Membrane proteins, Swarming	0.09	not_deregulated	0.999008657
+ykaA.1923	CDS	ykaA	BSU_12850	Proteins of unknown function, Other highly expressed unknown proteins	0.09	not_deregulated	0.724113731
+rsuA.4555	CDS	rsuA	BSU_30035	rRNA modification and maturation/ based on similarity	0.09	not_deregulated	0.999008657
+ndk.3433	CDS	ndk	BSU_22730	Nucleotide metabolism/ other, Phosphorylation on a Ser residue, Phosphorylation on a Thr residue	0.09	not_deregulated	0.999008657
+mraY.2275	CDS	mraY	BSU_15190	Biosynthesis of peptidoglycan, Biosynthesis of peptidoglycan, Essential genes, Membrane proteins	0.09	not_deregulated	0.999008657
+trpB.3423	CDS	trpB	BSU_22640	Biosynthesis/ acquisition of aromatic amino acids	0.09	not_deregulated	0.788945812
+mdtR.4980	CDS	mdtR	BSU_32870	Transcription factors/ other, Resistance against toxins/ antibiotics	0.09	not_deregulated	0.999008657
+sftA.4523	CDS	sftA	BSU_29805	DNA condensation/ segregation, Other genes	0.09	not_deregulated	0.999008657
+liaI.5018	CDS	liaI	BSU_33130	Resistance against oxidative and electrophile stress, Resistance against toxins/ antibiotics, Membrane proteins	0.08	not_deregulated	0.951719174
+ypuD.3516	CDS	ypuD	BSU_23300	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.08	not_deregulated	na
+yflA.1180	CDS	yflA	BSU_07750	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins, Other transporters, Alanine or glycine cation symporter family	0.08	not_deregulated	0.98340327
+ypjP.3291	CDS	ypjP	BSU_21840	Proteins of unknown function, Other highly expressed unknown proteins	0.08	not_deregulated	0.999008657
+yfhP.1290	CDS	yfhP	BSU_08620	Proteins of unknown function, Membrane proteins	0.08	not_deregulated	0.999008657
+greA.4115	CDS	greA	BSU_27320	Transcription elongation/ termination, Newly identified competence genes, Other proteins, Swarming	0.08	not_deregulated	0.999008657
+metQ.4952	CDS	metQ	BSU_32730	Biosynthesis/ acquisition of methionine/ S-adenosylmethionine, Membrane proteins, Uptake of amino acids, Secreted proteins	0.08	not_deregulated	0.999008657
+kinD.2035	CDS	kinD	BSU_13660	Protein kinases, Two-component sensor kinase, Biofilm formation, Membrane proteins, The kinases, The kinases, Phosphorylation on a His residue, Regulation	0.08	not_deregulated	0.999008657
+artR.3612	CDS	artR	BSU_23960	Biosynthesis/ acquisition of arginine, Membrane proteins, Uptake of amino acids	0.08	not_deregulated	0.999008657
+liaG.5015	CDS	liaG	BSU_33110	Resistance against oxidative and electrophile stress, Resistance against toxins/ antibiotics, Membrane proteins	0.08	not_deregulated	0.999008657
+ribZB.5423	CDS	ribZB	BSU_35850	Biosynthesis/ acquisition of riboflavin/ FAD	0.08	not_deregulated	0.999008657
+ctpA.2967	CDS	ctpA	BSU_19590	Additional proteins involved in proteolysis, Membrane proteins	0.08	not_deregulated	0.999008657
+yitT.1643	CDS	yitT	BSU_11120	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins	0.08	not_deregulated	0.791577062
+ypiB.3413	CDS	ypiB	BSU_22580	Cell wall/ other	0.07	not_deregulated	0.999008657
+ybeC.345	CDS	ybeC	BSU_02120	Membrane proteins, APC superfamily, Biosynthesis/ acquisition of serine/ glycine/ alanine, Utilization of alanine/ serine, Biosynthesis/ acquisition of glutamate/ glutamine/ ammonium assimilation, Utilization of glutamine/ glutamate	0.07	not_deregulated	0.999008657
+xre.1862	CDS	xre	BSU_12510	Transcription factors/ other, PBSX prophage, Essential genes	0.07	not_deregulated	0.999008657
+opuCD.5114	CDS	opuCD	BSU_33800	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.07	not_deregulated	0.70566899
+yhcX.1380	CDS	yhcX	BSU_09250	Proteins of unknown function	0.07	not_deregulated	0.999008657
+sipT.2154	CDS	sipT	BSU_14410	Protein secretion, Membrane proteins	0.07	not_deregulated	0.999008657
+cdsA.2481	CDS	cdsA	BSU_16540	Biosynthesis of phospholipids, Essential genes, Membrane proteins	0.07	not_deregulated	0.999008657
+yisL.1598	CDS	yisL	BSU_10760	Membrane proteins, Proteins of unknown function	0.07	not_deregulated	0.999008657
+recJ.4170	CDS	recJ	BSU_27620	DNA repair/ recombination/ based on similarity, Efp-dependent proteins, Other proteins, DNA replication	0.07	not_deregulated	0.999008657
+murJ.4557	CDS	murJ	BSU_30050	Biosynthesis of peptidoglycan, Biosynthesis of peptidoglycan, Membrane proteins	0.07	not_deregulated	0.878823138
+ccpA.4513	CDS	ccpA	BSU_29740	Transcription factors/ other, Regulators of core metabolism	0.07	not_deregulated	0.999008657
+tagV.5366	CDS	tagV	BSU_35520	Export of anionic polymers and attachment to peptidoglycan, Membrane proteins	0.07	not_deregulated	0.151380211
+miaB.2552	CDS	miaB	BSU_17010	tRNA modification and maturation	0.07	not_deregulated	0.999008657
+ecfT.255	CDS	ecfT	BSU_01470	ECF transporter, Membrane proteins, The general components of the ECF transporters, Swarming	0.07	not_deregulated	0.999008657
+yyaK.6167	CDS	yyaK	BSU_40830	Membrane proteins, Proteins of unknown function	0.07	not_deregulated	0.438747661
+yugP.4732	CDS	yugP	BSU_31310	Proteins of unknown function, Newly identified sporulation proteins (based on transcription profiling)	0.06	not_deregulated	0.999008657
+scuA.3278	CDS	scuA	BSU_21750	Terminal oxidases, Membrane proteins	0.06	not_deregulated	0.999008657
+prfA.5601	CDS	prfA	BSU_37010	Translation factors, Essential genes	0.06	not_deregulated	0.999008657
+asiMA.1412	CDS	asiMA	BSU_09510	Control of sigma factors, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Essential genes, Membrane proteins	0.06	not_deregulated	0.999008657
+yhjE.1553	CDS	yhjE	BSU_10480	Proteins of unknown function, Membrane proteins	0.06	not_deregulated	0.999008657
+gatA.1036	CDS	gatA	BSU_06680	Aminoacyl-tRNA synthetases, Essential genes	0.06	not_deregulated	0.999008657
+pbtQ.603	CDS	pbtQ	BSU_03830	Membrane proteins, Uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, ABC transporters for the uptake of iron/ siderophores, Secreted proteins	0.05	not_deregulated	0.770065939
+divIB.2283	CDS	divIB	BSU_15240	Sporulation proteins/ other, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Essential genes, Membrane proteins, Divisome	0.05	not_deregulated	0.999008657
+opuAC.476	CDS	opuAC	BSU_03000	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.05	not_deregulated	0.999008657
+opuAB.475	CDS	opuAB	BSU_02990	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.05	not_deregulated	0.999008657
+yutJ.4878	CDS	yutJ	BSU_32200	Electron transport/ other/ based on similarity	0.05	not_deregulated	0.999008657
+opuE.1033	CDS	opuE	BSU_06660	General stress proteins (controlled by SigB), Coping with hyper-osmotic stress, Membrane proteins, Solute:sodium symporter family, Uptake of compatible solutes, Sodium-solute symporter	0.05	not_deregulated	0.576483188
+desE.2903	CDS	desE	BSU_19180	Lipid metabolism/ other, Cold stress proteins, Membrane proteins	0.05	not_deregulated	0.823268366
+ydbL_S152.706	CDS_3'UTR	ydbL_S152	BSU_04510	Membrane proteins, Proteins of unknown function	0.05	not_deregulated	0.999008657
+aacD.3258	CDS	aacD	BSU_21630	Resistance against toxins/ antibiotics/ based on similarity, SP-beta prophage	0.05	not_deregulated	0.999008657
+yoeA.2770	CDS	yoeA	BSU_18370	Membrane proteins, Multidrug exporters/ based on homology	0.05	not_deregulated	0.999008657
+rbgA.2409	CDS	rbgA	BSU_16050	Ribosome assembly, Essential genes, GTP-binding proteins, Targets of (p)ppGpp	0.05	not_deregulated	0.384215768
+amj.662	CDS	amj	BSU_04230	Biosynthesis of peptidoglycan, Biosynthesis of peptidoglycan, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins	0.05	not_deregulated	0.79046309
+opuAA.473	CDS	opuAA	BSU_02980	Coping with hyper-osmotic stress, Membrane proteins, Uptake of compatible solutes for osmoprotection	0.05	not_deregulated	0.999008657
+yfhH.1277	CDS	yfhH	BSU_08530	Proteins of unknown function	0.05	not_deregulated	0.999008657
+mcpB.4720	CDS	mcpB	BSU_31260	Membrane proteins, Membrane-bound chemoreceptors	0.05	not_deregulated	0.999008657
+rcmE.4296	CDS	rcmE	BSU_28390	Biosynthesis of peptidoglycan, Biosynthesis of peptidoglycan, Essential genes	0.05	not_deregulated	0.999008657
+rsuA_murJ.4556	intergenic_UTR	rsuA_murJ	BSU_30035	rRNA modification and maturation/ based on similarity	0.05	not_deregulated	na
+oxaAA.6204	CDS	oxaAA	BSU_41040	Information processing, Protein synthesis, modification and degradation, Protein secretion	0.04	not_deregulated	0.950584412
+ybfJ.364	CDS	ybfJ	BSU_02250	Newly identified sporulation proteins (based on transcription profiling)	0.04	not_deregulated	0.999008657
+rapJ.448	CDS	rapJ	BSU_02820	Protein phosphatases, Response regulator aspartate phosphatase	0.04	not_deregulated	0.999008657
+srfP.1041	CDS	srfP	BSU_06710	Resistance against toxins/ antibiotics, Membrane proteins, Swarming	0.04	not_deregulated	0.999008657
+ywpF.5495	CDS	ywpF	BSU_36330	Proteins of unknown function	0.04	not_deregulated	0.999008657
+ydgF.874	CDS	ydgF	BSU_05620	Membrane proteins, APC superfamily	0.04	not_deregulated	0.999008657
+yxeC.5979	CDS	yxeC	BSU_39600	Membrane proteins, Proteins of unknown function	0.04	not_deregulated	0.907463688
+secDF.4174	CDS	secDF	BSU_27650	Protein secretion, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins, Swarming	0.04	not_deregulated	0.999008657
+citB.2719	CDS	citB	BSU_18000	TCA cycle, RNA binding regulators, Trigger enzyme that acts by binding of a specific RNA element, Utilization of branched-chain amino acids	0.04	not_deregulated	0.598675683
+yjcM.1778	CDS	yjcM	BSU_11910	Proteins of unknown function, Secreted proteins	0.04	not_deregulated	0.999008657
+mbl.5506	CDS	mbl	BSU_36410	Cell shape, Sporulation proteins/ other, Membrane proteins, Essential genes	0.04	not_deregulated	0.999008657
+ytpR.4524	CDS	ytpR	BSU_29820	Aminoacyl-tRNA synthetases, Potential RNA/ Ribosome-binding proteins	0.04	not_deregulated	0.999008657
+ctaA.2221	CDS	ctaA	BSU_14870	Biosynthesis of heme/ siroheme, Sporulation proteins/ other, Membrane proteins	0.04	not_deregulated	0.999008657
+ydbI.701	CDS	ydbI	BSU_04480	Membrane proteins, Proteins of unknown function	0.04	not_deregulated	0.999008657
+folEA.3441	CDS	folEA	BSU_22780	Biosynthesis of folate, Essential genes, tRNA modification and maturation	0.04	not_deregulated	0.999008657
+catR.5093	CDS	catR	BSU_33680	Transcription factors/ other, Resistance against oxidative and electrophile stress	0.03	not_deregulated	0.999008657
+yuaE.4686	CDS	yuaE	BSU_31030	Proteins of unknown function	0.03	not_deregulated	0.999008657
+azoRB.5075	CDS	azoRB	BSU_33540	Sporulation proteins/ other, Resistance against oxidative and electrophile stress	0.03	not_deregulated	0.999008657
+tagT.5421	CDS	tagT	BSU_35840	Export of anionic polymers and attachment to peptidoglycan, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins, Secreted proteins	0.03	not_deregulated	0.999008657
+lytC.5379	CDS	lytC	BSU_35620	Autolysis, Motility and chemotaxis/ other	0.03	not_deregulated	0.999008657
+pdeH.4797	CDS	pdeH	BSU_31740	Metabolism of signalling nucleotides, Additional chemotaxis signal transduction and regulatory proteins, Swarming	0.03	not_deregulated	0.999008657
+ybzH.314	CDS	ybzH	BSU_01889	Transcription factor/ other/ based on similarity, Prophage 1, Cell shape	0.03	not_deregulated	0.567786155
+mtrB.3439	CDS	mtrB	BSU_22770	Biosynthesis/ acquisition of aromatic amino acids, Transcription factors/ other, RNA binding regulators	0.03	not_deregulated	0.999008657
+ydiL.927	CDS	ydiL	BSU_06010	Proteins of unknown function, Membrane proteins	0.03	not_deregulated	0.999008657
+ywjC.5633	CDS	ywjC	BSU_37210	General stress proteins (controlled by SigB)	0.03	not_deregulated	0.384215768
+yvgK.5052	CDS	yvgK	BSU_33370	Other transporters	0.03	not_deregulated	0.999008657
+zinT.4037	CDS	zinT	BSU_26830	Zinc, Secreted proteins	0.03	not_deregulated	0.999008657
+yneR.2728	CDS	yneR	BSU_18060	TCA cycle	0.03	not_deregulated	0.999008657
+fabHB.1510	CDS	fabHB	BSU_10170	Biosynthesis of fatty acids	0.03	not_deregulated	0.327518247
+rpsP.2398	CDS	rpsP	BSU_15990	Ribosomal proteins, Essential genes	0.03	-2.44	1.13E-18
+yokG.3253	CDS	yokG	BSU_21600	Toxins, antitoxins and immunity against toxins/ based on similarity, SP-beta prophage	0.03	not_deregulated	0.999008657
+S668.2718	sRNA_5UTR	S668	new_1926587_1926679	na	0.03	not_deregulated	na
+S157.715	sRNA_5UTR	S157	new_510862_511036	na	0.03	not_deregulated	0.999008657
+yebC.993	CDS	yebC	BSU_06380	Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins	0.02	not_deregulated	0.733865687
+plsY.2730	CDS	plsY	BSU_18070	Biosynthesis of phospholipids, Essential genes, Membrane proteins	0.02	not_deregulated	0.999008657
+yplQ.3284	CDS	yplQ	BSU_21790	Membrane proteins, Lipid metabolism/ other	0.02	not_deregulated	0.999008657
+hinT.1491	CDS	hinT	BSU_10030	Genetics/ other/ based on similarity	0.02	not_deregulated	0.999008657
+iolS.6007	CDS	iolS	BSU_39780	Utilization of inositol	0.02	not_deregulated	0.999008657
+yqhQ.3686	CDS	yqhQ	BSU_24490	Sporulation proteins/ other, General stress proteins (controlled by SigB), Membrane proteins	0.02	not_deregulated	0.836375943
+tasA_sipW.3708	intergenic_UTR	tasA_sipW	BSU_24620	Biofilm formation, Secreted proteins, Amyloid protein synthesis, secretion and assembly	0.02	not_deregulated	na
+tyrA_hisC.3420	intergenic_UTR	tyrA_hisC	BSU_22610	Biosynthesis/ acquisition of aromatic amino acids	0.02	not_deregulated	0.999008657
+pdaC.1809	CDS	pdaC	BSU_12100	Cell wall/ other, Membrane proteins	0.02	not_deregulated	0.185043971
+cesB.365	CDS	cesB	BSU_02260	Utilization of lipids/ other	0.02	not_deregulated	0.999008657
+motA.2038	CDS	motA	BSU_13690	Flagellar proteins, Membrane proteins, Other proteins required for efficient pellicle biofilm formation, Swarming	0.02	not_deregulated	0.999008657
+tagO.5367	CDS	tagO	BSU_35530	Biosynthesis of teichoic acid, Biosynthesis of teichoic acid, Essential genes, Membrane proteins, Cell shape	0.02	not_deregulated	0.999008657
+rasP_proS.2486	intergenic_UTR	rasP_proS	BSU_16560	Control of sigma factors, Membrane proteins, Other genes, Additional proteins involved in proteolysis, Protein secretion	0.02	not_deregulated	0.999008657
+bcrC.5522	CDS	bcrC	BSU_36530	Biosynthesis of the carrier lipid undecaprenylphosphate, Biosynthesis of the carrier lipid undecaprenylphosphate, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Heat shock proteins, Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.02	not_deregulated	0.999008657
+lytB.5381	CDS	lytB	BSU_35630	Autolysis, Membrane proteins	0.02	not_deregulated	0.999008657
+mblK_yisL.1597	intergenic_UTR	mblK_yisL	BSU_10750	Poorly characterized/ putative enzymes, Other genes	0.01	not_deregulated	0.999008657
+mcpC.2082	CDS	mcpC	BSU_13950	Membrane proteins, Membrane-bound chemoreceptors	0.01	not_deregulated	0.79046309
+yubF_lytG.4697	intergenic_UTR	yubF_lytG	BSU_31110	Proteins of unknown function, Membrane proteins, Other highly expressed unknown proteins	0.01	not_deregulated	0.964560419
+artQ_artP.3614	intergenic_UTR	artQ_artP	BSU_23970	Biosynthesis/ acquisition of arginine, Membrane proteins, Uptake of amino acids	0.01	not_deregulated	na
+yjcN.1779	CDS	yjcN	BSU_11920	Proteins of unknown function, Swarming	0.01	not_deregulated	0.997994319
+comN.4177	CDS	comN	BSU_27660	Genetic competence, Genetic competence	0.01	not_deregulated	0.999008657
+yjcN_S433.1780	CDS_3'UTR	yjcN_S433	BSU_11920	Proteins of unknown function, Swarming	0.01	not_deregulated	0.997994319
+hemAT.1538	CDS	hemAT	BSU_10380	Soluble chemoreceptors, Other proteins required for efficient pellicle biofilm formation	0.01	not_deregulated	0.999008657
+argC_argJ.1658	intergenic_UTR	argC_argJ	BSU_11190	Biosynthesis/ acquisition of arginine	0.01	not_deregulated	na
+mgsR.3727	CDS	mgsR	BSU_24770	Transcription factors/ other, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Phosphorylation on an Arg residue	0.01	not_deregulated	0.336951336

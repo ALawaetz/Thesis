@@ -1,0 +1,99 @@
+pyRAP_Gene	feature	Gene_base	locus	GO_terms	RPMPRPK	log2foldchange_RNAseq	padj_RNAseq
+bsrF.2882	transcript	bsrF	BSU_misc_RNA_75	Small RNAs with unknown functions	8.53	not_deregulated	na
+recQ.2911	CDS	recQ	BSU_19220	DNA repair/ recombination/ based on similarity, Other proteins, DNA replication	6.39	not_deregulated	0.583439557
+ccpB.6173	CDS	ccpB	BSU_40870	Transcription factors/ other, Sporulation proteins/ other	4.29	not_deregulated	0.586200676
+yoeC.2773	CDS	yoeC	BSU_18390	Proteins of unknown function	3.61	not_deregulated	0.142104495
+recQ_azoJ.2912	intergenic_UTR	recQ_azoJ	BSU_19220	DNA repair/ recombination/ based on similarity, Other proteins, DNA replication	1.55	not_deregulated	0.930826376
+S735_ssrSA.2913	sRNA_inter_intragenic	S735_ssrSA	new_2095786_2095916_c	na	1.45	not_deregulated	0.813432642
+gdwB.5861	transcript	gdwB	BSU_misc_RNA_60	na	1.45	not_deregulated	na
+ybaR.273	CDS	ybaR	BSU_01580	Membrane proteins, Transporter for organic acids, Utilization of organic acids	0.85	2.93	7.00E-52
+rpmGA.3747	CDS	rpmGA	BSU_24900	Phosphorylation on an Arg residue, Ribosomal proteins	0.84	not_deregulated	0.913563198
+yokC.3263	CDS	yokC	BSU_21640	SP-beta prophage	0.79	not_deregulated	0.832173075
+bsrE.2869	CDS	bsrE	BSU_18978	Type 1 TA systems	0.66	not_deregulated	0.84667727
+comGA.3721	CDS	comGA	BSU_24730	Genetic competence, Genetic competence, Membrane proteins, Phosphorylation on an Arg residue	0.58	not_deregulated	0.068330806
+pfeT.2067	CDS	pfeT	BSU_13850	Membrane proteins, Iron export, Metal ion transporter	0.55	not_deregulated	0.805195914
+bsrH.3924	CDS	bsrH	BSU_26055	Antisense RNAs of toxin/antitoxin systems, Small RNAs with unknown functions, Type 1 TA systems	0.54	not_deregulated	0.73073656
+S612.2560	sRNA_independent	S612	new_1780399_1780532	na	0.49	not_deregulated	na
+azoJ.2914	CDS	azoJ	BSU_19230	Resistance against oxidative and electrophile stress	0.47	not_deregulated	0.764599177
+S816.3264	sRNA_5UTR	S816	new_2283652_2283755_c	na	0.45	not_deregulated	0.930826376
+S261.1151	sRNA_independent	S261	new_827843_827923	na	0.39	not_deregulated	na
+gdnE.5860	CDS	gdnE	BSU_38840	Proteins of unknown function, Membrane proteins	0.39	not_deregulated	0.996800286
+tcdA.4157	CDS	tcdA	BSU_27540	tRNA modification and maturation	0.34	not_deregulated	0.781787881
+bsrG.3245	CDS	bsrG	BSU_21546	Type 1 TA systems	0.33	not_deregulated	0.985381206
+Novel_transcript.2092	Novel_transcript	Novel_transcript	na	na	0.32	2.58	5.03E-14
+S951.3789	sRNA_independent	S951	new_2600156_2602305	na	0.31	not_deregulated	0.958297591
+guaN.1966	CDS	guaN	BSU_13170	Purine salvage and interconversion, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.3	not_deregulated	0.834404035
+S1181.4677	sRNA_independent	S1181	new_3178641_3178932_c	na	0.29	not_deregulated	0.912419682
+ydzJ.975	CDS	ydzJ	BSU_06269	Proteins of unknown function	0.28	not_deregulated	0.923288057
+citZ.4415	CDS	citZ	BSU_29140	TCA cycle, Phosphorylation on a Ser residue	0.27	1.28	1.03E-11
+tadA.36	CDS	tadA	BSU_00180	tRNA modification and maturation	0.27	not_deregulated	0.294457865
+S125.550	sRNA_independent	S125	new_372801_375944	na	0.22	not_deregulated	0.08884101
+S658_S659_ncrF.2691	sRNA_independent	S658_S659_ncrF	new_1917098_1917430	na	0.21	not_deregulated	0.601781651
+S773.3086	sRNA_independent	S773	new_2190663_2191625	na	0.18	not_deregulated	0.666740606
+yfmH.1135	sRNA_independent	yfmH	new_820648_820823	na	0.17	not_deregulated	0.894633233
+S1453.5672	sRNA_3UTR	S1453	new_3852070_3852185_c	na	0.15	not_deregulated	0.913492678
+tnrA.1986	CDS	tnrA	BSU_13310	Biosynthesis/ acquisition of glutamate/ glutamine/ ammonium assimilation, Transcription factors/ other, Regulators of core metabolism	0.14	not_deregulated	0.191499937
+S1294.5107	S_feature	S1294	new_3465665_3466067_c	na	0.14	1.02	1.34E-07
+kre.2093	CDS	kre	BSU_14020	Genetic competence, Genetic competence, Phosphorylation on an Arg residue	0.13	-2.55	9.16E-44
+yusD.4958	CDS	yusD	BSU_32760	Proteins of unknown function	0.13	0.64	0.008921394
+S1290.5097	sRNA_independent	S1290	new_3460206_3462957	Other regulators, Regulatory RNAs	0.12	not_deregulated	0.707508902
+arfM.5645	CDS	arfM	BSU_37290	Regulators of electron transport, Transcription factors/ other	0.12	not_deregulated	0.964686967
+S506.2079	S_feature	S506	new_1461473_1462812_c	na	0.11	0.54	0.010127097
+ssrSB.4158	transcript	ssrSB	BSU_misc_RNA_41	Control of sigma factors, 6S RNA	0.11	not_deregulated	0.880024518
+yjdA.1790	CDS	yjdA	BSU_11980	Poorly characterized/ putative enzymes	0.1	not_deregulated	0.640400156
+S163.730	sRNA_independent	S163	new_519083_519559_c	na	0.1	not_deregulated	0.957625301
+scr.37	transcript	scr	BSU_misc_RNA_2	Protein secretion, Essential genes, Small cytoplasmatic RNA	0.09	not_deregulated	0.278963689
+hmtB.5678	CDS	hmtB	BSU_37540	Poorly characterized/ putative enzymes	0.09	not_deregulated	0.84502892
+S1137.4498	sRNA_3UTR	S1137	new_3036410_3036583	na	0.08	not_deregulated	0.980865415
+yslB.4307	CDS	yslB	BSU_28460	Proteins of unknown function	0.08	not_deregulated	0.733347444
+yusE.4960	CDS	yusE	BSU_32770	Electron transport/ other/ based on similarity	0.07	0.75	0.003679545
+yrdA.4026	CDS	yrdA	BSU_26780	Proteins of unknown function	0.07	not_deregulated	0.79983919
+liaD.6065	CDS	liaD	BSU_40180	Control of response regulators/ other, Secreted proteins, Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.07	not_deregulated	0.677918735
+yqjE.3604	CDS	yqjE	BSU_23910	Poorly characterized/ putative enzymes	0.07	not_deregulated	0.846752339
+yqfU.3775	CDS	yqfU	BSU_25110	Membrane proteins	0.06	not_deregulated	0.996010316
+gabP.983	CDS	gabP	BSU_06310	Utilization of gamma-amino butyric acid, Membrane proteins, Transporter for organic acids, APC superfamily	0.06	not_deregulated	0.973600163
+S442.1801	S_feature	S442	new_1277495_1278195_c	na	0.06	not_deregulated	0.169068682
+rlmKB.3348	CDS	rlmKB	BSU_22170	rRNA modification and maturation/ based on similarity	0.06	not_deregulated	0.641151259
+comFC.5356	CDS	comFC	BSU_35450	Genetic competence, Genetic competence, Phosphorylation on an Arg residue	0.05	not_deregulated	0.253727654
+albF.5658	CDS	albF	BSU_37420	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds, Phosphorylation on an Arg residue	0.05	not_deregulated	0.098391914
+glyA.5584	CDS	glyA	BSU_36900	Biosynthesis/ acquisition of serine/ glycine/ alanine, Phosphorylation on either a Ser, Thr or Tyr residue, Newly identified competence genes	0.05	not_deregulated	0.717837636
+ypdA_gudB.3469	intergenic_UTR	ypdA_gudB	BSU_22950	Resistance against oxidative and electrophile stress	0.05	not_deregulated	0.843996682
+zur.3771	CDS	zur	BSU_25100	Transcription factors/ other, Zinc, Phosphorylation on either a Ser, Thr or Tyr residue	0.05	not_deregulated	0.746398692
+aimX_aimP.3140	scRNA	aimX_aimP	BSU_ncRNA_1	na	0.05	not_deregulated	0.391413359
+sipS_ypzJ.3520	intergenic_UTR	sipS_ypzJ	BSU_23310	Protein secretion, Membrane proteins	0.05	not_deregulated	0.706256615
+S1335.5295	sRNA_independent	S1335	new_3602657_3602942	na	0.04	-1.38	3.32E-09
+yusF.4961	CDS	yusF	BSU_32780	Proteins of unknown function	0.04	0.63	0.009170724
+yxbC.6020	CDS	yxbC	BSU_39880	Proteins of unknown function	0.04	not_deregulated	0.980865415
+yxaM.6026	CDS	yxaM	BSU_39930	Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.04	not_deregulated	0.098182501
+S1453_ywhD.5674	CDS_3'UTR	S1453_ywhD	new_3852070_3852185_c	na	0.04	not_deregulated	0.822091078
+rapA.1852	CDS	rapA	BSU_12430	Protein phosphatases, Response regulator aspartate phosphatase, Quorum sensing, Phosphatases controlling the phosphorelay, Phosphatases controlling the phosphorelay	0.04	1.15	3.13E-08
+asnH.6025	CDS	asnH	BSU_39920	Biosynthesis/ acquisition of aspartate/ asparagine	0.04	not_deregulated	0.111872286
+ymfH.2532	CDS	ymfH	BSU_16860	Poorly characterized/ putative enzymes	0.04	not_deregulated	0.832173075
+ykwB.2081	CDS	ykwB	BSU_13940	Newly identified sporulation proteins (based on transcription profiling), Efp-dependent proteins	0.04	not_deregulated	0.363526889
+dnaEC.4428	CDS	dnaEC	BSU_29230	DNA replication, Essential genes	0.04	not_deregulated	0.42224858
+sdpC.5106	CDS	CDS	BSU_33770	Lifestyles, Coping with stress, Toxins, antitoxins and immunity against toxins, Toxins, antitoxins and immunity/ Additional genes	0.03	0.45	0.044255087
+zur_yqfU.3773	intergenic_UTR	zur_yqfU	BSU_25100	Transcription factors/ other, Zinc, Phosphorylation on either a Ser, Thr or Tyr residue	0.03	not_deregulated	0.666882605
+yvgO.5056	CDS	yvgO	BSU_33410	General stress proteins (controlled by SigB), Secreted proteins	0.03	not_deregulated	0.805960508
+sboA.5651	CDS	sboA	BSU_37350	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.03	not_deregulated	0.764793384
+ykzN.1964	CDS	ykzN	BSU_13169	Proteins of unknown function, General stress proteins (controlled by SigB)	0.03	not_deregulated	0.326059907
+rok.2131	CDS	rok	BSU_14240	Genetic competence, Transcription factors/ other, Genetic competence, DNA condensation/ segregation	0.03	not_deregulated	0.967440214
+gpsB.3351	CDS	gpsB	BSU_22180	Membrane proteins, Other genes, Phosphorylation on a Thr residue	0.03	not_deregulated	0.600786944
+ythP.4552	CDS	ythP	BSU_30010	Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins, Exporters of unknown function	0.02	not_deregulated	0.058677821
+ytzJ.4431	CDS	ytzJ	BSU_29249	Proteins of unknown function	0.02	not_deregulated	0.07772757
+S829.3310	S_feature	S829	new_2308165_2308470	na	0.02	0.71	0.002045433
+rlmKB_gpsB.3349	intergenic_UTR	rlmKB_gpsB	BSU_22170	rRNA modification and maturation/ based on similarity	0.02	not_deregulated	0.585840089
+S942.3774	sRNA_inter_intragenic	S942	new_2591866_2591960_c	na	0.02	not_deregulated	0.898048051
+sboX.5652	CDS	sboX	BSU_37360	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.02	not_deregulated	0.666247218
+katA.1318	CDS	katA	BSU_08820	Resistance against oxidative and electrophile stress, Phosphorylation on an Arg residue	0.02	not_deregulated	0.68079865
+rnpB.3350	transcript	rnpB	BSU_misc_RNA_35	tRNA modification and maturation, Essential genes, RNases/ Other, RNA component of RNase P	0.02	not_deregulated	0.579915089
+yxbB.6022	CDS	yxbB	BSU_39890	Proteins of unknown function	0.01	not_deregulated	0.123281688
+yusG.4962	CDS	yusG	BSU_32790	Proteins of unknown function, Other highly expressed unknown proteins	0.01	not_deregulated	0.586200676
+yjzH.1803	CDS	yjzH	BSU_12069	Proteins of unknown function	0.01	not_deregulated	0.445460594
+albC.5655	CDS	albC	BSU_37390	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds, Membrane proteins, Export of antibiotic substances	0.01	not_deregulated	0.448536405
+yqaP.3944	CDS	yqaP	BSU_26230	Skin element	0.01	not_deregulated	0.843153664
+albA.5653	CDS	albA	BSU_37370	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.01	not_deregulated	0.666247218
+albB.5654	CDS	albB	BSU_37380	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds, Membrane proteins	0.01	not_deregulated	0.586200676
+liaL_liaK.6062	intergenic_UTR	liaL_liaK	BSU_40150	Control of response regulators/ other, Membrane proteins, Export of peptides, Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.01	not_deregulated	0.178376075
+rplU.4228	CDS	rplU	BSU_27960	Ribosomal proteins, Essential genes	0.01	not_deregulated	0.504669875
+yqeY.3823	CDS	yqeY	BSU_25400	Proteins of unknown function, Potential RNA/ Ribosome-binding proteins	0.01	not_deregulated	0.89363563
+gsiB.689	CDS	gsiB	BSU_04400	General stress proteins (controlled by SigB)	0.01	not_deregulated	0.604829447
