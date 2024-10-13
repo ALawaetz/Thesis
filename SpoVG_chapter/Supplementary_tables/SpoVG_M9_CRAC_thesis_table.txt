@@ -1,0 +1,186 @@
+pyRAP_Gene	feature	Gene_base	locus	GO_terms	RPMPRPK	log2foldchange_RNAseq	padj_RNAseq
+lctE.484	CDS	lctE	BSU_03050	Overflow metabolism, Phosphorylation on a Tyr residue	81.0	not_significant	na
+lctE_lctP.485	intergenic_UTR	lctE_lctP	BSU_03050	Overflow metabolism, Phosphorylation on a Tyr residue	2.39	not_significant	na
+cydA.5849	CDS	cydA	BSU_38760	Terminal oxidases, Membrane proteins	12.33	not_significant	0.96731385564724
+yflT.1150	CDS	yflT	BSU_07550	General stress proteins (controlled by SigB)	1.53	not_significant	0.768016306112275
+mgsR.3727	CDS	mgsR	BSU_24770	Transcription factors/ other, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Phosphorylation on an Arg residue	1.7	1.38	9.54951107258147e-05
+lctP.486	CDS	lctP	BSU_03060	Overflow metabolism, Membrane proteins, Transporter for organic acids	11.33	not_significant	0.136806474355675
+cydB.5848	CDS	cydB	BSU_38750	Terminal oxidases, Membrane proteins	5.0	not_significant	na
+gspA.5803	CDS	gspA	BSU_38430	General stress proteins (controlled by SigB)	1.19	1.42	4.27510510422295e-05
+S1290.5097	sRNA_independent	S1290	new_3460206_3462957	Other regulators, Regulatory RNAs	3.0	1.1	0.0404606935443823
+nasD.526	CDS	nasD	BSU_03300	Anaerobic respiration, Utilization of nitrate/ nitrite	2.47	-1.56	0.0069536011134106
+gsiB.689	CDS	gsiB	BSU_04400	General stress proteins (controlled by SigB)	0.66	not_significant	0.34077973338685
+sboA.5651	CDS	sboA	BSU_37350	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	2.6	not_significant	na
+S313.1339	sRNA_independent	S313	new_972833_973008_c	na	38.0	not_significant	na
+cutJ_cutR.619	intergenic_UTR	cutJ_cutR	BSU_03950	Membrane proteins, Metal ion transporter, Copper	0.15	not_significant	na
+yerD.1023	CDS	yerD	BSU_06590	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins, Poorly characterized/ putative enzymes	2.0	not_significant	0.641802808946855
+nhaX.1435	CDS	nhaX	BSU_09690	General stress proteins (controlled by SigB)	1.62	not_significant	0.0845562701343391
+ybyB.344	CDS	ybyB	BSU_02110	General stress proteins (controlled by SigB)	0.69	1.12	0.0429720674294024
+S639_S641.2653	sRNA_independent	S639_S641	new_1900263_1900568_c	na	0.49	-1.47	0.0004598558227792
+rpmEB.4640	CDS	rpmEB	BSU_30700	Ribosomal proteins, General stress proteins (controlled by SigB), Phosphorylation on an Arg residue	1.53	not_significant	0.990029496305443
+iseA.2772	CDS	iseA	BSU_18380	Autolysis, Secreted proteins	0.31	not_significant	0.978569376084998
+mblK.1595	putative_sRNA	mblK	BSU_10750	Poorly characterized/ putative enzymes, Other genes	0.52	not_significant	0.943616614159864
+yfhK.1282	CDS	yfhK	BSU_08570	General stress proteins (controlled by SigB)	0.88	not_significant	0.0542981277922067
+yjbC.1703	CDS	yjbC	BSU_11490	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Resistance against oxidative and electrophile stress	0.12	not_significant	0.161138654204688
+plsC.1415	CDS	plsC	BSU_09540	Biosynthesis of fatty acids, General stress proteins (controlled by SigB), Essential genes, Membrane proteins	0.41	not_significant	0.499380325062636
+S1466.5746	S_feature	S1466	new_3906104_3907171	na	0.33	not_significant	na
+yyzH.6123	CDS	yyzH	BSU_40529	Proteins of unknown function	1.0	not_significant	na
+yfkJ.1197	CDS	yfkJ	BSU_07880	Protein phosphatases, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.53	not_significant	0.976376108619404
+nirC.5745	CDS	nirC	BSU_38060	Anaerobic respiration, Membrane proteins, Uptake of other small ions	0.5	not_significant	na
+kinB.4757	CDS	kinB	BSU_31450	Protein kinases, Two-component sensor kinase, Membrane proteins, The kinases, The kinases, Phosphorylation on a His residue	0.54	not_significant	0.88934592231584
+sboX.5652	CDS	sboX	BSU_37360	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.33	not_significant	na
+sigM.1413	CDS	sigM	BSU_09520	Sigma factors, Sigma factors, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Resistance against toxins/ antibiotics	0.37	not_significant	0.646574101622328
+ylxF.2442	CDS	ylxF	BSU_16260	Proteins of unknown function, Swarming	0.36	not_significant	0.240403412815357
+ygxB.1398	CDS	ygxB	BSU_09390	General stress proteins (controlled by SigB)	0.37	not_significant	0.188065645203213
+spoIISB.1919	CDS	spoIISB	BSU_12820	Sporulation/ other, Toxins, antitoxins and immunity against toxins, Type 2 TA systems	0.4	not_significant	0.834590403798845
+ywsB.5437	CDS	ywsB	BSU_35970	General stress proteins (controlled by SigB)	0.12	1.04	0.0304294253378111
+ysmB.4298	CDS	ysmB	BSU_28400	Transcription factor/ other/ based on similarity	0.37	not_significant	0.842643596160831
+yopC.3159	CDS	yopC	BSU_20940	SP-beta prophage	0.38	not_significant	0.68399309250872
+yqfW.3770	CDS	yqfW	BSU_25090	Proteins of unknown function	0.32	not_significant	0.764135095695605
+rapA.1851	putative_sRNA	rapA	BSU_12430	Protein phosphatases, Response regulator aspartate phosphatase, Quorum sensing, Phosphatases controlling the phosphorelay, Phosphatases controlling the phosphorelay	0.05	-0.49	0.0092512623288799
+pfeT.2067	CDS	pfeT	BSU_13850	Membrane proteins, Iron export, Metal ion transporter	9.71	not_significant	0.99057587988966
+yjzE.1764	CDS	yjzE	BSU_11839	General stress proteins (controlled by SigB)	5.29	not_significant	na
+cutR.620	CDS	cutR	BSU_03960	Transcription factors/ other, Copper	0.38	not_significant	0.673193709942626
+S1224.4819	sRNA_independent	S1224	new_3266637_3269004	na	0.43	1.39	0.0010299901245308
+fswA.3515	transcript	fswA	BSU_misc_RNA_36	na	1.0	not_significant	na
+ycdG.451	CDS	ycdG	BSU_02840	General stress proteins (controlled by SigB), Poorly characterized/ putative enzymes	0.62	1.35	0.0121267541125436
+ylxX.2285	CDS	ylxX	BSU_15260	Sporulation proteins/ other, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins, Efp-dependent proteins	0.23	not_significant	0.3536204849321
+csbC.6012	CDS	csbC	BSU_39810	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins, Other transporters	0.38	not_significant	0.0850617994814164
+fliF.2434	CDS	fliF	BSU_16210	Flagellar proteins, Membrane proteins, Other proteins required for efficient pellicle biofilm formation, Swarming	0.76	not_significant	0.210452850386943
+tagV.5366	CDS	tagV	BSU_35520	Export of anionic polymers and attachment to peptidoglycan, Membrane proteins	0.38	not_significant	0.394614457454453
+iolW.5074	CDS	iolW	BSU_33530	Utilization of inositol, General stress proteins (controlled by SigB)	0.29	0.82	0.0304294253378111
+iolS.6007	CDS	iolS	BSU_39780	Utilization of inositol	0.28	not_significant	0.996753377099552
+yjzH.1803	CDS	yjzH	BSU_12069	Proteins of unknown function	0.1	not_significant	0.637609428073704
+ohrB.1963	CDS	ohrB	BSU_13160	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.22	1.39	0.0325271861416568
+azoRB.5075	CDS	azoRB	BSU_33540	Sporulation proteins/ other, Resistance against oxidative and electrophile stress	0.21	not_significant	0.121085079381786
+med.1672	CDS	med	BSU_11300	Genetic competence, Genetic competence	0.16	not_significant	0.830034164129186
+codY.2428	CDS	codY	BSU_16170	Transcription factors/ other, Regulators of core metabolism, Phosphorylation on a Ser residue	0.29	not_significant	0.895706045562068
+albC.5655	CDS	albC	BSU_37390	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds, Membrane proteins, Export of antibiotic substances	0.05	not_significant	0.78937494432273
+lytB.5381	CDS	lytB	BSU_35630	Autolysis, Membrane proteins	0.16	not_significant	0.369804306377454
+ykwB.2081	CDS	ykwB	BSU_13940	Newly identified sporulation proteins (based on transcription profiling), Efp-dependent proteins	0.15	not_significant	0.198739790329061
+ywtG.5419	CDS	ywtG	BSU_35830	General stress proteins (controlled by SigB), Membrane proteins	0.5	1.11	0.0437007960494604
+mcpC.2082	CDS	mcpC	BSU_13950	Membrane proteins, Membrane-bound chemoreceptors	0.13	not_significant	0.40658660521997
+yczJ.646	CDS	yczJ	BSU_04130	Proteins of unknown function	0.19	not_significant	0.953688165001245
+cydC.5847	CDS	cydC	BSU_38740	Terminal oxidases, Membrane proteins, Regulatory ABC transporters	0.5	not_significant	na
+ephM.1285	CDS	ephM	BSU_08590	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Poorly characterized/ putative enzymes	0.07	not_significant	0.869148384954266
+pdeH.4797	CDS	pdeH	BSU_31740	Metabolism of signalling nucleotides, Additional chemotaxis signal transduction and regulatory proteins, Swarming	0.17	not_significant	0.309724455047174
+tagA.5407	CDS	tagA	BSU_35750	Biosynthesis of teichoic acid, Biosynthesis of teichoic acid, Essential genes, Cell shape	0.12	not_significant	0.89628091418919
+yjzD.1667	CDS	yjzD	BSU_11270	Proteins of unknown function, Membrane proteins	1.76	not_significant	0.413701650609191
+rsbRD.3725	CDS	rsbRD	BSU_24760	Control of sigma factors, General stress proteins (controlled by SigB), Phosphorylation on a Thr residue	0.14	1.71	0.0002944592618455
+yuaI.4681	CDS	yuaI	BSU_31000	Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.15	not_significant	0.646574101622328
+fliT.5335	CDS	fliT	BSU_35320	Flagellar proteins, Swarming	0.22	not_significant	0.488101345248601
+hemAT.1538	CDS	hemAT	BSU_10380	Soluble chemoreceptors, Other proteins required for efficient pellicle biofilm formation	0.1	not_significant	0.646574101622328
+fliE.2432	CDS	fliE	BSU_16200	Flagellar proteins, Swarming	0.15	not_significant	0.12132392112166
+bmr.3618	CDS	bmr	BSU_24010	General stress proteins (controlled by SigB), Resistance against toxins/ antibiotics, Other exporters, Membrane proteins	0.23	not_significant	0.724923628367523
+katE.5895	CDS	katE	BSU_39050	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.32	1.33	0.0026476447335104
+yqjL.3593	CDS	yqjL	BSU_23830	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Resistance against oxidative and electrophile stress	0.12	not_significant	0.834590403798845
+lutP.5168	CDS	lutP	BSU_34190	Utilization of organic acids, Membrane proteins, Transporter for organic acids	0.08	not_significant	0.961637309635124
+yokI.3249	CDS	yokI	BSU_21580	SP-beta prophage, Type 2 TA systems, Secreted proteins	0.59	not_significant	0.980080564685383
+spdL.1284	CDS	spdL	BSU_08580	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Resistance against toxins/ antibiotics, Membrane proteins	0.04	not_significant	0.972349115674688
+S338_dat.1432	sRNA_5UTR	S338_dat	new_1041930_1041993	na	0.33	not_significant	0.0542981277922067
+era.3808	CDS	era	BSU_25290	Ribosome assembly, Essential genes, GTP-binding proteins, Targets of (p)ppGpp	0.33	not_significant	0.889839169396657
+spoIIAB.3540	CDS	spoIIAB	BSU_23460	Protein kinases, Control of sigma factors, Sporulation proteins/ other	0.32	not_significant	0.654788140511496
+ysnF.4289	CDS	ysnF	BSU_28340	General stress proteins (controlled by SigB), Phosphorylation on either a Ser, Thr or Tyr residue	0.27	1.75	0.0100009770016382
+lytC.5379	CDS	lytC	BSU_35620	Autolysis, Motility and chemotaxis/ other	0.18	not_significant	0.389367083012487
+truB.2503	CDS	truB	BSU_16660	tRNA modification and maturation	0.33	not_significant	0.812007783060812
+wapI.5920	CDS	wapI	BSU_39220	Toxins, antitoxins and immunity against toxins/ based on similarity, Phosphorylation on either a Ser, Thr or Tyr residue, Essential genes	0.49	not_significant	0.738048136860717
+yfhO.1289	CDS	yfhO	BSU_08610	Membrane proteins, Biosynthesis of lipoteichoic acid, Biosynthesis of lipoteichoic acid, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), General stress proteins (controlled by SigB)	0.38	0.58	0.0493058110675547
+wapA.5922	CDS	wapA	BSU_39230	Cell wall/ other, Toxins, antitoxins and immunity against toxins/ based on similarity, Secreted proteins	0.49	not_significant	0.727029191076219
+divIVA.2312	CDS	divIVA	BSU_15420	Membrane proteins, The Min system, Other genes, Phosphorylation on an Arg residue	0.07	not_significant	0.680735994602339
+bkdR.3635	CDS	bkdR	BSU_24100	Utilization of branched-chain amino acids, Transcription factors/ other	0.6	not_significant	0.78937494432273
+truA_rplM.260	intergenic_UTR	truA_rplM	BSU_01480	tRNA modification and maturation, Universally conserved proteins	0.01	not_significant	0.927533632547962
+fnr.5647	CDS	fnr	BSU_37310	Regulators of electron transport, Transcription factors/ other	0.67	not_significant	0.990321930430769
+fliK.2444	CDS	fliK	BSU_16270	Flagellar proteins, Swarming	0.15	not_significant	0.191336727103505
+abbA.2114	CDS	abbA	BSU_14120	Control of transcription factor (other than two-component system)	0.18	not_significant	0.989321170546588
+yxbB.6022	CDS	yxbB	BSU_39890	Proteins of unknown function	0.04	-2.35	2.90635901989811e-23
+epr.5797	CDS	epr	BSU_38400	Utilization of proteins, Extracellular feeding proteases, Additional chemotaxis signal transduction and regulatory proteins, Secreted proteins	0.17	1.07	7.80527741430876e-06
+yfkI.1198	CDS	yfkI	BSU_07890	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.18	not_significant	0.213220517208993
+tcyP.1365	CDS	tcyP	BSU_09130	Biosynthesis/ acquisition of cysteine, Membrane proteins, Dicarboxylate/amino acid:cation symporter	0.15	not_significant	0.677132514666976
+pta.5696	CDS	pta	BSU_37660	Overflow metabolism, Phosphorylation on either a Ser, Thr or Tyr residue	0.2	not_significant	0.772857826660469
+bshBB.2949	CDS	bshBB	BSU_19460	Biosynthesis of bacillithiol, Resistance against oxidative and electrophile stress	0.24	not_significant	0.967920757293967
+yeaA.981	CDS	yeaA	BSU_06290	Sporulation proteins/ other, Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.08	not_significant	0.997345831022251
+dapI.2124	CDS	dapI	BSU_14190	Biosynthesis of peptidoglycan, Biosynthesis/ acquisition of lysine/ threonine, Biosynthesis of peptidoglycan, Essential genes	0.38	not_significant	0.956263893732215
+S1181.4677	sRNA_independent	S1181	new_3178641_3178932_c	na	1.67	not_significant	na
+cypC.343	CDS	cypC	BSU_02100	Electron transport/ other, Lipid metabolism/ other, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.75	1.78	0.0088667820543541
+mcpA.4717	CDS	mcpA	BSU_31240	Membrane proteins, Membrane-bound chemoreceptors	0.31	not_significant	0.848978125810351
+sftA.4523	CDS	sftA	BSU_29805	DNA condensation/ segregation, Other genes	0.3	not_significant	0.338666948010889
+tagF.5403	CDS	tagF	BSU_35720	Biosynthesis of teichoic acid, Biosynthesis of teichoic acid, Essential genes, Membrane proteins	0.35	not_significant	0.230928817382927
+gabD.613	CDS	gabD	BSU_03910	Utilization of gamma-amino butyric acid, General stress proteins (controlled by SigB)	0.2	not_significant	0.924499382099707
+mswJ_S1499.5879	transcript	mswJ_S1499	BSU_misc_RNA_62	na	0.16	not_significant	0.803079088310982
+yobI.2865	CDS	yobI	BSU_18970	Membrane proteins, Proteins of unknown function	0.19	not_significant	0.641802808946855
+pdaC.1809	CDS	pdaC	BSU_12100	Cell wall/ other, Membrane proteins	0.14	not_significant	0.927533632547962
+niaR.4214	CDS	niaR	BSU_27890	Biosynthesis of NAD(P), Transcription factors/ other	0.13	not_significant	0.509823996781865
+ydgF.874	CDS	ydgF	BSU_05620	Membrane proteins, APC superfamily	0.13	not_significant	0.876355764815794
+yybF.6144	CDS	yybF	BSU_40660	Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.5	not_significant	0.887743045395487
+flhF.2462	CDS	flhF	BSU_16400	Flagellar proteins, Membrane proteins, Swarming	0.08	not_significant	0.943824362548775
+ydjE.958	CDS	ydjE	BSU_06170	Utilization of sucrose	0.76	not_significant	0.626412658486498
+yndJ.2679	CDS	yndJ	BSU_17800	Proteins of unknown function, Membrane proteins	1.32	not_significant	0.972349115674688
+ecfT.255	CDS	ecfT	BSU_01470	ECF transporter, Membrane proteins, The general components of the ECF transporters, Swarming	0.19	not_significant	0.694534754042162
+ydjP.979	CDS	ydjP	BSU_06280	Sporulation proteins/ other, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Poorly characterized/ putative enzymes	0.05	not_significant	0.976376108619404
+asnH.6025	CDS	asnH	BSU_39920	Biosynthesis/ acquisition of aspartate/ asparagine	0.13	-2.16	1.86989111609178e-19
+lytD.5412	CDS	lytD	BSU_35780	Autolysis, N-acetyl-β-D-glucosaminidases, Secreted proteins	0.2	1.23	2.38854545986522e-06
+cheV.2091	CDS	cheV	BSU_14010	Control of response regulators/ other, Phosphorylation on an Asp residue, Coupling proteins, Other proteins required for efficient pellicle biofilm formation	0.05	not_significant	0.93081327708536
+kinE.2015	CDS	kinE	BSU_13530	Protein kinases, Two-component sensor kinase, The kinases, The kinases	0.36	not_significant	0.887642657939216
+yddK.782	CDS	yddK	BSU_05000	ICEBs1	0.2	not_significant	0.972349115674688
+yozC.2925	CDS	yozC	BSU_19300	Proteins of unknown function	0.3	not_significant	0.975551724855429
+ypuD.3516	CDS	ypuD	BSU_23300	General stress proteins (controlled by SigB), Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.29	not_significant	na
+pgoN.5055	CDS	pgoN	BSU_33400	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.18	not_significant	0.807676528940948
+yhcX.1380	CDS	yhcX	BSU_09250	Proteins of unknown function	0.22	not_significant	0.18628318223509
+yugI.4748	CDS	yugI	BSU_31390	Proteins of unknown function, Potential RNA/ Ribosome-binding proteins	0.03	not_significant	0.851997344954672
+yscB.4376	CDS	yscB	BSU_28890	Proteins of unknown function	0.12	not_significant	0.781412062042372
+clsC.5638	CDS	clsC	BSU_37240	Biosynthesis of phospholipids, General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress, Membrane proteins	0.29	1.22	0.003070399562396
+yrkA.4000	CDS	yrkA	BSU_26610	Membrane proteins, Magnesium uptake/ efflux	0.12	not_significant	0.593886222830822
+ywmE.5553	CDS	ywmE	BSU_36720	General stress proteins (controlled by SigB), Membrane proteins	0.08	not_significant	0.17230472363588
+yhdX.1426	CDS	yhdX	BSU_09630	Proteins of unknown function	2.0	not_significant	na
+lexA.2692	CDS	lexA	BSU_17850	DNA repair/ recombination, Transcription factors/ other, Other proteins	0.12	not_significant	0.962926092104753
+folD.3664	CDS	folD	BSU_24310	tRNA modification and maturation	0.12	not_significant	0.396354602409572
+ysaA.4382	CDS	ysaA	BSU_28940	Biosynthesis/ acquisition of serine/ glycine/ alanine	0.1	not_significant	0.972349115674688
+ydfG.841	CDS	ydfG	BSU_05400	Proteins of unknown function	0.08	not_significant	0.70452363679222
+yvbJ.5122	CDS	yvbJ	BSU_33880	Membrane proteins, Proteins of unknown function	0.55	not_significant	0.650761138001308
+yxaM.6026	CDS	yxaM	BSU_39930	Resistance against toxins/ antibiotics/ based on similarity, Membrane proteins	0.11	-2.28	1.33077770303271e-32
+yoxC.2787	CDS	yoxC	BSU_18510	General stress proteins (controlled by SigB)	0.1	not_significant	na
+mbl.5506	CDS	mbl	BSU_36410	Cell shape, Sporulation proteins/ other, Membrane proteins, Essential genes	0.15	not_significant	0.976376108619404
+S462.1931	sRNA_independent	S462	new_1357486_1357852_c	na	0.11	not_significant	0.462784057775444
+tagU.5385	putative_sRNA	tagU	BSU_35650	Export of anionic polymers and attachment to peptidoglycan, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins	0.11	not_significant	0.376295104417563
+spxH.1719	CDS	spxH	BSU_11550	Resistance against other toxic compounds (nitric oxide, phenolic acids, flavonoids, oxalate), Additional proteins involved in proteolysis, Swarming	0.09	not_significant	0.755782096430192
+comZ.1673	CDS	comZ	BSU_11310	Genetic competence, Genetic competence	0.07	not_significant	0.78937494432273
+ctaO.1807	CDS	ctaO	BSU_12080	Biosynthesis of heme/ siroheme, Membrane proteins	0.13	-2.81	6.56426254837754e-07
+menA.5810	CDS	menA	BSU_38490	Biosynthesis of menaquinone, Essential genes, Membrane proteins	0.02	not_significant	0.866291301093677
+gabP.983	CDS	gabP	BSU_06310	Utilization of gamma-amino butyric acid, Membrane proteins, Transporter for organic acids, APC superfamily	0.08	not_significant	0.58133723297125
+motB.2037	CDS	motB	BSU_13680	Flagellar proteins, Membrane proteins, Genetic competence, Genetic competence, Swarming	0.08	not_significant	0.863242501595325
+yxzE.5854	CDS	yxzE	BSU_38790	Cell envelope stress proteins (controlled by SigM, V, W, X, Y)	0.21	not_significant	0.0568624753165106
+trmFO.2421	CDS	trmFO	BSU_16130	tRNA modification and maturation	0.41	not_significant	0.172798392797867
+ezrA.4486	CDS	ezrA	BSU_29610	Membrane proteins, Divisome	0.21	not_significant	0.639629199214823
+yugU.4725	CDS	yugU	BSU_31280	General stress proteins (controlled by SigB), Resistance against oxidative and electrophile stress	0.07	not_significant	0.586877732106257
+katA.1318	CDS	katA	BSU_08820	Resistance against oxidative and electrophile stress, Phosphorylation on an Arg residue	0.02	not_significant	0.980000862515407
+yqaP.3944	CDS	yqaP	BSU_26230	Skin element	0.05	not_significant	0.863847142146639
+htpK.2008	CDS	htpK	BSU_13480	Transcription factors/ other	0.17	not_significant	0.93081327708536
+nasE.524	CDS	nasE	BSU_03290	Anaerobic respiration, Utilization of nitrate/ nitrite	0.05	not_significant	0.587610586306145
+ydcL.754	CDS	ydcL	BSU_04800	ICEBs1	0.33	not_significant	0.213780862311364
+yabE.70	CDS	yabE	BSU_00400	Cell wall/ other/ based on similarity	0.23	not_significant	0.93081327708536
+yvzA.5258	CDS	yvzA	BSU_34830	Proteins of unknown function	0.43	not_significant	0.735308971954511
+yezG.1056	CDS	yezG	BSU_06811	Essential genes, Type 2 TA systems	0.24	not_significant	0.933160516176339
+asrG_SR4.3244	transcript	asrG_SR4	BSU_misc_RNA_77	na	0.22	not_significant	0.370851631114695
+yeeF.1058	CDS	yeeF	BSU_06812	Type 2 TA systems, Secreted proteins	0.27	not_significant	0.972349115674688
+ylaL.2214	CDS	ylaL	BSU_14820	Proteins of unknown function	0.06	not_significant	0.972349115674688
+S1418.5552	sRNA_independent	S1418	new_3774188_3774399_c	na	0.04	not_significant	0.114907621188603
+yvcB.5260	CDS	yvcB	BSU_34840	Proteins of unknown function	0.46	not_significant	0.665550873421574
+spo0F.5620	CDS	spo0F	BSU_37130	The phosphotransferases, The phosphotransferases, Phosphorylation on an Asp residue	0.05	not_significant	0.645756481925381
+degR.3309	CDS	degR	BSU_21940	Control of response regulators/ other	0.14	not_significant	0.965056416155651
+srfP.1041	CDS	srfP	BSU_06710	Resistance against toxins/ antibiotics, Membrane proteins, Swarming	0.16	not_significant	0.0708446873809882
+S612.2560	sRNA_independent	S612	new_1780399_1780532	na	1.33	not_significant	na
+exuR.1844	CDS	exuR	BSU_12370	Utilization of hexuronate, Transcription factors/ other, Sporulation proteins/ other	0.19	not_significant	0.600191486469903
+yqgX.3730	CDS	yqgX	BSU_24790	Proteins of unknown function	0.1	not_significant	0.975551724855429
+ybdO.338	CDS	ybdO	BSU_02050	Proteins of unknown function, Secreted proteins	0.11	not_significant	0.646574101622328
+yxcE.6009	CDS	yxcE	BSU_39790	Membrane proteins, Proteins of unknown function	0.21	not_significant	0.887743045395487
+bsrG.3245	CDS	bsrG	BSU_21546	Type 1 TA systems	0.89	-3.42	4.21789615340814e-26
+mbtH.4837	CDS	mbtH	BSU_31959	Proteins of unknown function	0.04	not_significant	0.0542981277922067
+albA.5653	CDS	albA	BSU_37370	Biosynthesis of antibacterial compounds, Biosynthesis of antibacterial compounds	0.03	not_significant	0.291906176896786
+rsbP.5155	CDS	rsbP	BSU_34110	Protein phosphatases, Control of sigma factors	0.17	not_significant	0.997345831022251
+lytF.1394	CDS	lytF	BSU_09370	Autolysis, Endopeptidases	0.1	not_significant	0.114907621188603
+yvyC.5341	CDS	yvyC	BSU_35350	Flagellar proteins/ based on similarity	0.05	not_significant	0.822287570242059
+ponA.3372	CDS	ponA	BSU_22320	Penicillin-binding proteins, Cell envelope stress proteins (controlled by SigM, V, W, X, Y), Membrane proteins, Cell shape	0.55	0.61	0.0187551387285389
+dck.31	CDS	dck	BSU_00140	Purine salvage and interconversion	0.08	not_significant	0.975551724855429
+S1070.4278	sRNA_independent	S1070	new_2892550_2894991	na	0.1	not_significant	0.115234776352367
+flhG.2464	CDS	flhG	BSU_16410	Motility and chemotaxis/ other, Resistance against toxins/ antibiotics, Swarming	0.09	not_significant	0.381856499363594
+dat.1433	CDS	dat	BSU_09670	Biosynthesis of peptidoglycan, Biosynthesis of peptidoglycan, Biosynthesis/acquisition of L- and D-alanine	0.17	-0.94	2.18022459045577e-06
